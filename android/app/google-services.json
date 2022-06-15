@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "397660649104",
+    "project_id": "ferreteriabasededatos",
+    "storage_bucket": "ferreteriabasededatos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397660649104:android:5a462aeb84f9d1a29e4a15",
+        "android_client_info": {
+          "package_name": "com.mycompany.iosuiiproyectoalvaradoorta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397660649104-teff705q4phmqcn9irirpha9lekkbd8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.iosuiiproyectoalvaradoorta",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "397660649104-ol2k4qnfs23hm4rm5hbc79mns6qnictj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcP3H2yMlgAA15YjiTfwrX8_8Ms8qzkdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397660649104-ol2k4qnfs23hm4rm5hbc79mns6qnictj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397660649104-2thd8hrtqdm255hpa6g0ntvqivr4ke4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iosuiiproyectoalvaradoorta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
